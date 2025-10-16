@@ -2,7 +2,7 @@
 using tyuiu.cources.programming.interfaces.Sprint2;
 namespace Tyuiu.Kucherenkonm.Sprint2.Task4.V22.Lib
 {
-    public class DataService : ISprint1Task4V22
+    public class DataService : ISprint2Task4V22
     {
         public double Calculate(double x, double y)
         {
