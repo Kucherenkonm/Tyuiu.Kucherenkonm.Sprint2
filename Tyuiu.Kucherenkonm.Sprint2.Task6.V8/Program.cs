@@ -11,7 +11,7 @@ internal class Program
         Console.WriteLine("* Спринт #2                                                               *");
         Console.WriteLine("* Тема:              Получение результата из switch                       *");
         Console.WriteLine("* Задание #6                                                              *");
-        Console.WriteLine("* Вариант #8                                                             *");
+        Console.WriteLine("* Вариант #8                                                              *");
         Console.WriteLine("* Выполнила: Кучеренко Надежда Михайловна | ИИПб - 25 - 1                 *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* УСЛОВИЕ:                                                                *");
