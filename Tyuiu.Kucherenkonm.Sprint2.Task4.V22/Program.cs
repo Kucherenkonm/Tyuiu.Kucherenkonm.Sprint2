@@ -9,8 +9,8 @@ internal class Program
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #2                                                               *");
         Console.WriteLine("* Тема:                         Тернарный оператор                        *");
-        Console.WriteLine("* Задание #3                                                              *");
-        Console.WriteLine("* Вариант #19                                                             *");
+        Console.WriteLine("* Задание #4                                                              *");
+        Console.WriteLine("* Вариант #22                                                             *");
         Console.WriteLine("* Выполнила: Кучеренко Надежда Михайловна | ИИПб - 25 - 1                 *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* УСЛОВИЕ:                                                                *");
